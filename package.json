@@ -1,0 +1,15 @@
+{
+  "name": "kue-test",
+  "version": "1.0.0",
+  "description": "test for kue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kue": "^0.10.5",
+    "redis": "^2.4.2"
+  }
+}
